@@ -1,2 +1,2 @@
 # brandghost-mcp
-The MCP server for LLMs to interact with BranGhost
+The MCP server for LLMs to interact with BrandGhost
